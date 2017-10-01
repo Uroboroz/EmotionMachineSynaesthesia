@@ -2,12 +2,8 @@
 EmotionMachineSynaesthesia
 
 python3.* cast_tf_idf.py [--path_file _path_file_]
-
-                      [--host_db _host_db_  --user_db _user_db_  --pass_db _pass_db_ --db_name _db_name_]
-                      
-                      [--feedback _feedback_ | --load_tfidf _load_tfidf_ ]
-                      
-                      {--save_tfidf 1|0}
+                      [--host_db _host_db_  --user_db _user_db_  --pass_db _pass_db_ --db_name _db_name_]                    
+                      [--feedback _feedback_ | --load_tfidf _load_tfidf_ ][--save_tfidf 1|0]
 
 --help:       вызов помощи;
 
