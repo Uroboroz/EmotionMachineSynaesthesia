@@ -12,7 +12,7 @@ from os import _exit
 
 
 # python cast_tf_idf.py --path_file test.txt --save_tfidf 1
-# --host_db localhost --user_db postgres --pass_db uouwrecr13
+# --host_db localhost --user_db postgres --pass_db password
 # --db_name postgres --feedback feedback_2.csv
 
 
