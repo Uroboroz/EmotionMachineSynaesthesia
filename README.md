@@ -1,7 +1,7 @@
 # EmotionMachineSynaesthesia
 EmotionMachineSynaesthesia
 
-python3.* **cast_tf_idf.py** [***--path_file*** path_file ***--feedback*** feedback ***--load_tfidf*** load_tfidf ***--save_tfidf*** 1|0]
+python3.* **cast_tf_idf.py** [ ***--path_file*** path_file ***--feedback*** feedback ***--load_tfidf*** load_tfidf ***--save_tfidf*** 1|0]
 
 * ***--help***:       вызов помощи;
 * ***--path_file***:  путь к файлу, содержайщий данные для анализа;
